@@ -15,7 +15,7 @@ int main(){
 				printf("Duplicates found at pos %d and pos %d\n",i+1,j+1);
 			}
 		}
-	}
+    }
 	if(flag==0){
 		printf("No uplicates found\n");
 	}
