@@ -9,7 +9,6 @@ int main(){
    }
    for(i=0;i<9;i+=3){
     for(int j=i;j<=2+i;j++){
-
         printf("%d",numArr[j]);
         if((j+1)%3!=0)
             printf(",");
